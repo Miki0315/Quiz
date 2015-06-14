@@ -7,12 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		21EC94E41B2A2A0D00C9C1AF /* siba.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94E31B2A2A0D00C9C1AF /* siba.jpg */; };
+		21EC94E61B2A2A2200C9C1AF /* tengoku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94E51B2A2A2200C9C1AF /* tengoku.jpg */; };
+		21EC94EA1B2AD34000C9C1AF /* tuti.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94E91B2AD34000C9C1AF /* tuti.jpg */; };
+		21EC94EC1B2AD35900C9C1AF /* inaka1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94EB1B2AD35900C9C1AF /* inaka1.jpg */; };
+		21EC94EE1B2AD36500C9C1AF /* inaka2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94ED1B2AD36500C9C1AF /* inaka2.jpg */; };
+		21EC94F01B2AD36E00C9C1AF /* inaka3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94EF1B2AD36E00C9C1AF /* inaka3.jpg */; };
+		21EC94F21B2AD38100C9C1AF /* tokai.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94F11B2AD38100C9C1AF /* tokai.jpg */; };
+		21EC94F41B2AD39900C9C1AF /* farm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94F31B2AD39900C9C1AF /* farm.jpg */; };
+		21EC94F61B2AD3AE00C9C1AF /* town.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94F51B2AD3AE00C9C1AF /* town.jpg */; };
+		21EC94F81B2AD3CA00C9C1AF /* sibuya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94F71B2AD3CA00C9C1AF /* sibuya.jpg */; };
+		21EC94FA1B2AD48900C9C1AF /* sitamati.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94F91B2AD48900C9C1AF /* sitamati.jpg */; };
+		21EC94FC1B2AE1A600C9C1AF /* tikyuu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21EC94FB1B2AE1A600C9C1AF /* tikyuu.jpg */; };
+		AF223C441A8C6B9100E3B3B9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AF223C411A8C6B9100E3B3B9 /* Default-568h@2x.png */; };
+		AF223C451A8C6B9100E3B3B9 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AF223C421A8C6B9100E3B3B9 /* Default-667h@2x.png */; };
+		AF223C461A8C6B9100E3B3B9 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AF223C431A8C6B9100E3B3B9 /* Default-736h@3x.png */; };
 		C7343EA11A89986900D857EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7343EA01A89986900D857EA /* AppDelegate.swift */; };
 		C7343EA61A89986900D857EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7343EA41A89986900D857EA /* Main.storyboard */; };
 		C7343EA81A89986900D857EA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7343EA71A89986900D857EA /* Images.xcassets */; };
 		C7343EAB1A89986900D857EA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C7343EA91A89986900D857EA /* LaunchScreen.xib */; };
 		C7343EB71A89986900D857EA /* QuizTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7343EB61A89986900D857EA /* QuizTests.swift */; };
 		C7343EC11A89997C00D857EA /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7343EC01A89997C00D857EA /* QuizViewController.swift */; };
+		C7A6705F1A9B436D00F460E3 /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = C7A6705D1A9B436D00F460E3 /* start.png */; };
 		C7FE4DE01A8A17B9004C530A /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FE4DDF1A8A17B9004C530A /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +43,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		21EC94E31B2A2A0D00C9C1AF /* siba.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = siba.jpg; sourceTree = "<group>"; };
+		21EC94E51B2A2A2200C9C1AF /* tengoku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tengoku.jpg; sourceTree = "<group>"; };
+		21EC94E91B2AD34000C9C1AF /* tuti.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tuti.jpg; sourceTree = "<group>"; };
+		21EC94EB1B2AD35900C9C1AF /* inaka1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = inaka1.jpg; sourceTree = "<group>"; };
+		21EC94ED1B2AD36500C9C1AF /* inaka2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = inaka2.jpg; sourceTree = "<group>"; };
+		21EC94EF1B2AD36E00C9C1AF /* inaka3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = inaka3.jpg; sourceTree = "<group>"; };
+		21EC94F11B2AD38100C9C1AF /* tokai.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tokai.jpg; sourceTree = "<group>"; };
+		21EC94F31B2AD39900C9C1AF /* farm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = farm.jpg; sourceTree = "<group>"; };
+		21EC94F51B2AD3AE00C9C1AF /* town.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = town.jpg; sourceTree = "<group>"; };
+		21EC94F71B2AD3CA00C9C1AF /* sibuya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sibuya.jpg; sourceTree = "<group>"; };
+		21EC94F91B2AD48900C9C1AF /* sitamati.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sitamati.jpg; sourceTree = "<group>"; };
+		21EC94FB1B2AE1A600C9C1AF /* tikyuu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tikyuu.jpg; sourceTree = "<group>"; };
+		AF223C411A8C6B9100E3B3B9 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		AF223C421A8C6B9100E3B3B9 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
+		AF223C431A8C6B9100E3B3B9 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
 		C7343E9B1A89986900D857EA /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7343E9F1A89986900D857EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7343EA01A89986900D857EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,7 +67,8 @@
 		C7343EB01A89986900D857EA /* QuizTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7343EB51A89986900D857EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7343EB61A89986900D857EA /* QuizTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizTests.swift; sourceTree = "<group>"; };
-		C7343EC01A89997C00D857EA /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
+		C7343EC01A89997C00D857EA /* QuizViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; usesTabs = 0; };
+		C7A6705D1A9B436D00F460E3 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
 		C7FE4DDF1A8A17B9004C530A /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +90,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AF223C401A8C6B9100E3B3B9 /* Defaults */ = {
+			isa = PBXGroup;
+			children = (
+				AF223C411A8C6B9100E3B3B9 /* Default-568h@2x.png */,
+				AF223C421A8C6B9100E3B3B9 /* Default-667h@2x.png */,
+				AF223C431A8C6B9100E3B3B9 /* Default-736h@3x.png */,
+			);
+			path = Defaults;
+			sourceTree = "<group>";
+		};
 		C7343E921A89986900D857EA = {
 			isa = PBXGroup;
 			children = (
@@ -79,12 +121,25 @@
 		C7343E9D1A89986900D857EA /* Quiz */ = {
 			isa = PBXGroup;
 			children = (
+				21EC94FB1B2AE1A600C9C1AF /* tikyuu.jpg */,
+				21EC94F91B2AD48900C9C1AF /* sitamati.jpg */,
+				21EC94F71B2AD3CA00C9C1AF /* sibuya.jpg */,
+				21EC94F51B2AD3AE00C9C1AF /* town.jpg */,
+				21EC94F31B2AD39900C9C1AF /* farm.jpg */,
+				21EC94F11B2AD38100C9C1AF /* tokai.jpg */,
+				21EC94EF1B2AD36E00C9C1AF /* inaka3.jpg */,
+				21EC94ED1B2AD36500C9C1AF /* inaka2.jpg */,
+				21EC94EB1B2AD35900C9C1AF /* inaka1.jpg */,
+				21EC94E91B2AD34000C9C1AF /* tuti.jpg */,
+				21EC94E51B2A2A2200C9C1AF /* tengoku.jpg */,
+				21EC94E31B2A2A0D00C9C1AF /* siba.jpg */,
 				C7343EA01A89986900D857EA /* AppDelegate.swift */,
 				C7343EC01A89997C00D857EA /* QuizViewController.swift */,
 				C7FE4DDF1A8A17B9004C530A /* ResultViewController.swift */,
 				C7343EA41A89986900D857EA /* Main.storyboard */,
 				C7343EA71A89986900D857EA /* Images.xcassets */,
 				C7343EA91A89986900D857EA /* LaunchScreen.xib */,
+				C7A6705D1A9B436D00F460E3 /* start.png */,
 				C7343E9E1A89986900D857EA /* Supporting Files */,
 			);
 			path = Quiz;
@@ -93,6 +148,7 @@
 		C7343E9E1A89986900D857EA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AF223C401A8C6B9100E3B3B9 /* Defaults */,
 				C7343E9F1A89986900D857EA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,9 +251,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21EC94F21B2AD38100C9C1AF /* tokai.jpg in Resources */,
+				21EC94F41B2AD39900C9C1AF /* farm.jpg in Resources */,
+				21EC94F81B2AD3CA00C9C1AF /* sibuya.jpg in Resources */,
 				C7343EA61A89986900D857EA /* Main.storyboard in Resources */,
+				21EC94EA1B2AD34000C9C1AF /* tuti.jpg in Resources */,
+				AF223C441A8C6B9100E3B3B9 /* Default-568h@2x.png in Resources */,
+				21EC94EC1B2AD35900C9C1AF /* inaka1.jpg in Resources */,
+				21EC94E61B2A2A2200C9C1AF /* tengoku.jpg in Resources */,
 				C7343EAB1A89986900D857EA /* LaunchScreen.xib in Resources */,
+				21EC94FA1B2AD48900C9C1AF /* sitamati.jpg in Resources */,
+				21EC94E41B2A2A0D00C9C1AF /* siba.jpg in Resources */,
+				C7A6705F1A9B436D00F460E3 /* start.png in Resources */,
+				21EC94FC1B2AE1A600C9C1AF /* tikyuu.jpg in Resources */,
 				C7343EA81A89986900D857EA /* Images.xcassets in Resources */,
+				AF223C451A8C6B9100E3B3B9 /* Default-667h@2x.png in Resources */,
+				21EC94F01B2AD36E00C9C1AF /* inaka3.jpg in Resources */,
+				AF223C461A8C6B9100E3B3B9 /* Default-736h@3x.png in Resources */,
+				21EC94EE1B2AD36500C9C1AF /* inaka2.jpg in Resources */,
+				21EC94F61B2AD3AE00C9C1AF /* town.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,6 +413,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Quiz/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -351,6 +424,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Quiz/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
